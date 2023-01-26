@@ -13,3 +13,4 @@ File: FaceDetectionVideo
 
 <h5>1단계:</h5>
 -1/21: openCV를 활용하여, 영상 속 사람 얼굴 탐지.
+<br>-1/27: openCV를 활용한 사진 속 사람 얼굴 탐지 환경 세팅.
