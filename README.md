@@ -14,6 +14,10 @@ File: FaceDetectionPicture
 <br>
 <br>
 
+<h5> 3단계: 사진 속 얼굴 확대 후 저장.</h5>
+<br>
+<br>
+
 <h5>1단계:</h5>
 -1/21: openCV를 활용하여, 영상 속 사람 얼굴 탐지.
 <br>
