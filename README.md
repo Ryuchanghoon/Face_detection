@@ -9,12 +9,12 @@ openCV를 이용한 영상, 사진 속 사람 얼굴 탐지
 File: FaceDetectionVideo
 <br>
 <br>
-<h5> 2단계: 샘플 사진 속 사람 얼굴 탐지 후 얼굴 영역만 저장.</h5>
+<h5> 2단계: 샘플 사진 속 사람 얼굴 탐지.</h5>
 File: FaceDetectionPicture
 <br>
 <br>
 
-<h5> 3단계: 사진 속 얼굴 확대 후 저장.</h5>
+<h5> 3단계: 사진 속 얼굴 영역 확대 후 저장.</h5>
 <br>
 <br>
 
