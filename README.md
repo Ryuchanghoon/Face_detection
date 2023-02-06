@@ -15,6 +15,7 @@ File: FaceDetectionPicture
 <br>
 
 <h5> 3단계: 사진 속 얼굴 영역 확대 후 저장.</h5>
+File: FaceDetectionPicture
 <br>
 <br>
 
@@ -27,3 +28,8 @@ File: FaceDetectionPicture
 -1/27: openCV를 활용한 사진 속 사람 얼굴 탐지 환경 세팅.
 <br>-1/31: 하나의 사진 파일 속 얼굴 인식. 세팅한 전체 파일로 확장 예정.
 <br>-2/3: 사진 속 얼굴 사이즈 조정 후 출력.
+<br>
+<br>
+
+<h5>3단계:</h5>
+-2/6: 얼굴 영역 확대한 것, 지정된 파일에 저장.
