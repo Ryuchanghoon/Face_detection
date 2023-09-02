@@ -1,6 +1,6 @@
 ## Face_detection <br>얼굴 탐지 소규모 프로젝트.
 
-OpenCV를 이용한 영상, 사진 속 사람 얼굴 탐지 
+OpenCV를 이용한 영상, 사진 속 사람 얼굴 탐지.
 
 <br>
 <br>
